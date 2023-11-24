@@ -1,0 +1,2 @@
+﻿# NewsApp-client
+# NewsApp-admin
